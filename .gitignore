@@ -1,3 +1,4 @@
 *.xlsx
+!data/base.xlsx
 *.msg
 *config_*.json
