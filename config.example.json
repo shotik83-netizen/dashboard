@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "sheet": "База",
+  "headerRow": 3,
+  "startRow": 6,
+  "sourceUnit": "million",
+  "sourceUrl": "",
+  "workspaceUrl": "",
+  "fields": {
+    "work": "C",
+    "object": "F",
+    "display": "H",
+    "name": "I",
+    "inn": "L",
+    "status": "M",
+    "contracts": "T",
+    "staff": "BU",
+    "geo": "BW",
+    "contacts": "CE"
+  },
+  "revenue": {
+    "2023": "O",
+    "2024": "P",
+    "2025": "Q"
+  },
+  "projects": [
+    {
+      "column": "U",
+      "enterprise": "Проект 1",
+      "project": "Подпроект 1.1 [U]"
+    },
+    {
+      "column": "V",
+      "enterprise": "Проект 1",
+      "project": "Подпроект 1.2 [V]"
+    },
+    {
+      "column": "W",
+      "enterprise": "Проект 1",
+      "project": "Подпроект 1.3 [W]"
+    },
+    {
+      "column": "X",
+      "enterprise": "Проект 1",
+      "project": "Подпроект 1.4 [X]"
+    },
+    {
+      "column": "Y",
+      "enterprise": "Проект 1",
+      "project": "Подпроект 1.5 [Y]"
+    },
+    {
+      "column": "Z",
+      "enterprise": "Проект 2",
+      "project": "Попроект 2.1 [Z]"
+    },
+    {
+      "column": "AA",
+      "enterprise": "Проект 3",
+      "project": "Попроект 3.1 [AA]"
+    },
+    {
+      "column": "AB",
+      "enterprise": "Проект 3",
+      "project": "Попроект 3.1 [AB]"
+    },
+    {
+      "column": "AC",
+      "enterprise": "Проект 4",
+      "project": "Подпроект 4.1 [AC]"
+    },
+    {
+      "column": "AD",
+      "enterprise": "Проект 4",
+      "project": "Подпроект 4.2 [AD]"
+    },
+    {
+      "column": "AE",
+      "enterprise": "Проект 4",
+      "project": "Подпроект 4.3 [AE]"
+    },
+    {
+      "column": "AF",
+      "enterprise": "Проект 4",
+      "project": "Подпроект 4.4 [AF]"
+    },
+    {
+      "column": "AG",
+      "enterprise": "Проект 4",
+      "project": "Подпроект 4.5 [AG]"
+    },
+    {
+      "column": "AH",
+      "enterprise": "Проект 4",
+      "project": "Подпроект 4.6 [AH]"
+    },
+    {
+      "column": "AI",
+      "enterprise": "Проект 4",
+      "project": "Подпроект 4.7 [AI]"
+    },
+    {
+      "column": "AJ",
+      "enterprise": "Проект 4",
+      "project": "Подпроект 4.8 [AJ]"
+    },
+    {
+      "column": "AK",
+      "enterprise": "Проект 4",
+      "project": "Подпроект 4.9 [AK]"
+    },
+    {
+      "column": "AL",
+      "enterprise": "Проект 4",
+      "project": "Подпроект 4.10 [AL]"
+    },
+    {
+      "column": "AM",
+      "enterprise": "Проект 5",
+      "project": "Подпроект 5.1 [AM]"
+    },
+    {
+      "column": "AN",
+      "enterprise": "Проект 5",
+      "project": "Подпроект 5.2 [AN]"
+    },
+    {
+      "column": "AO",
+      "enterprise": "Проект 5",
+      "project": "Подпроект 5.3 [AO]"
+    },
+    {
+      "column": "AP",
+      "enterprise": "Проект 5",
+      "project": "Подпроект 5.4 [AP]"
+    },
+    {
+      "column": "AQ",
+      "enterprise": "Проект 6",
+      "project": "Подпроект 6.1 [AQ]"
+    },
+    {
+      "column": "AR",
+      "enterprise": "Проект 7",
+      "project": "Подпроект 7.1 [AR]"
+    },
+    {
+      "column": "AS",
+      "enterprise": "Проект 8",
+      "project": "Подпроект 8.1 [AS]"
+    },
+    {
+      "column": "AT",
+      "enterprise": "Проект 9",
+      "project": "Подпроект 9.1 [AT]"
+    },
+    {
+      "column": "AU",
+      "enterprise": "Проект 10",
+      "project": "Проект 10.1 [AU]"
+    },
+    {
+      "column": "AV",
+      "enterprise": "Проект 11",
+      "project": "Подпроект 11.1 [AV]"
+    },
+    {
+      "column": "AW",
+      "enterprise": "Проект 11",
+      "project": "Подпроект 11.2 [AW]"
+    },
+    {
+      "column": "AX",
+      "enterprise": "Проект 11",
+      "project": "Подпроект 11.3 [AX]"
+    },
+    {
+      "column": "AY",
+      "enterprise": "Проект 11",
+      "project": "Подпроект 11.4 [AY]"
+    },
+    {
+      "column": "AZ",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [AZ]"
+    },
+    {
+      "column": "BA",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BA]"
+    },
+    {
+      "column": "BB",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BB]"
+    },
+    {
+      "column": "BC",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BC]"
+    },
+    {
+      "column": "BD",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BD]"
+    },
+    {
+      "column": "BE",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BE]"
+    },
+    {
+      "column": "BF",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BF]"
+    },
+    {
+      "column": "BG",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BG]"
+    },
+    {
+      "column": "BH",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BH]"
+    },
+    {
+      "column": "BI",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BI]"
+    },
+    {
+      "column": "BJ",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BJ]"
+    },
+    {
+      "column": "BK",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BK]"
+    },
+    {
+      "column": "BL",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BL]"
+    },
+    {
+      "column": "BM",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BM]"
+    },
+    {
+      "column": "BN",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BN]"
+    },
+    {
+      "column": "BO",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BO]"
+    },
+    {
+      "column": "BP",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BP]"
+    },
+    {
+      "column": "BQ",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BQ]"
+    },
+    {
+      "column": "BR",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BR]"
+    },
+    {
+      "column": "BS",
+      "enterprise": "Прочие проекты",
+      "project": "Прочие [BS]"
+    },
+    {
+      "column": "BT",
+      "enterprise": "Прочие",
+      "project": "Прочие [BT]"
+    }
+  ]
+}
