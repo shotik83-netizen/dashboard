@@ -21,7 +21,8 @@
     "contacts": "CE",
     "contactPerson": "CB",
     "contactPosition": "CC",
-    "contactDetails": "CD"
+    "contactDetails": "CD",
+    "factory": "CF"
   },
   "revenue": {
     "2023": "O",
@@ -344,5 +345,24 @@
   ],
   "hiddenFields": [
     "reviews"
-  ]
+  ],
+  "viewFields": {
+    "segment": [
+      "name",
+      "inn",
+      "status",
+      "revenue",
+      "contracts",
+      "factory",
+      "geo"
+    ],
+    "overview": [
+      "factory",
+      "name",
+      "work",
+      "factoryWork",
+      "geo",
+      "revenue"
+    ]
+  }
 }
