@@ -22,7 +22,8 @@
     "contactPerson": "CB",
     "contactPosition": "CC",
     "contactDetails": "CD",
-    "factory": "CF"
+    "factory": "CF",
+    "totalContracts": "R"
   },
   "revenue": {
     "2023": "O",
@@ -351,18 +352,65 @@
       "name",
       "inn",
       "status",
+      "work",
       "revenue",
+      "totalContracts",
       "contracts",
-      "factory",
+      "projects",
+      "staff",
+      "contacts",
       "geo"
     ],
     "overview": [
-      "factory",
-      "name",
-      "work",
-      "factoryWork",
-      "geo",
-      "revenue"
+      "projects",
+      "work"
     ]
-  }
+  },
+  "columnOrder": [
+    "name",
+    "inn",
+    "status",
+    "work",
+    "revenue",
+    "totalContracts",
+    "contracts",
+    "projects",
+    "staff",
+    "contacts",
+    "geo",
+    "reviews",
+    "factory",
+    "enterprise",
+    "object"
+  ],
+  "filterFields": [
+    "name",
+    "inn",
+    "status",
+    "work",
+    "revenue",
+    "totalContracts",
+    "contracts",
+    "projects",
+    "staff",
+    "contacts",
+    "geo",
+    "factory",
+    "enterprise",
+    "object"
+  ],
+  "drilldownFields": [
+    "name",
+    "inn",
+    "status",
+    "work",
+    "revenue",
+    "totalContracts",
+    "contracts",
+    "projects",
+    "staff",
+    "contacts",
+    "geo"
+  ],
+  "splitProjects": false
 }
