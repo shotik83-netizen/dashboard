@@ -22,8 +22,8 @@
     "contactPerson": "CB",
     "contactPosition": "CC",
     "contactDetails": "CD",
-    "factory": "CF",
-    "totalContracts": "R"
+    "totalContracts": "R",
+    "enterprise": "CF"
   },
   "revenue": {
     "2023": "O",
@@ -33,315 +33,263 @@
   "projects": [
     {
       "column": "U",
-      "enterprise": "Проект 1",
-      "project": "Подпроект 1.1 [U]",
-      "plant": ""
+      "enterprise": "Предприятие 1",
+      "project": "Подпроект 1.1"
     },
     {
       "column": "V",
-      "enterprise": "Проект 1",
-      "project": "Подпроект 1.2 [V]",
-      "plant": ""
+      "enterprise": "Предприятие 1",
+      "project": "Подпроект 1.2"
     },
     {
       "column": "W",
-      "enterprise": "Проект 1",
-      "project": "Подпроект 1.3 [W]",
-      "plant": ""
+      "enterprise": "Предприятие 1",
+      "project": "Подпроект 1.3"
     },
     {
       "column": "X",
-      "enterprise": "Проект 1",
-      "project": "Подпроект 1.4 [X]",
-      "plant": ""
+      "enterprise": "Предприятие 1",
+      "project": "Подпроект 1.4"
     },
     {
       "column": "Y",
-      "enterprise": "Проект 1",
-      "project": "Подпроект 1.5 [Y]",
-      "plant": ""
+      "enterprise": "Предприятие 1",
+      "project": "Подпроект 1.5"
     },
     {
       "column": "Z",
-      "enterprise": "Проект 2",
-      "project": "Попроект 2.1 [Z]",
-      "plant": ""
+      "enterprise": "Предприятие 2",
+      "project": "Попроект 2.1"
     },
     {
       "column": "AA",
-      "enterprise": "Проект 3",
-      "project": "Попроект 3.1 [AA]",
-      "plant": ""
+      "enterprise": "Предприятие 3",
+      "project": "Попроект 3.1"
     },
     {
       "column": "AB",
-      "enterprise": "Проект 3",
-      "project": "Попроект 3.1 [AB]",
-      "plant": ""
+      "enterprise": "Предприятие 3",
+      "project": "Попроект 3.1"
     },
     {
       "column": "AC",
-      "enterprise": "Проект 4",
-      "project": "Подпроект 4.1 [AC]",
-      "plant": ""
+      "enterprise": "Предприятие 4",
+      "project": "Подпроект 4.1"
     },
     {
       "column": "AD",
-      "enterprise": "Проект 4",
-      "project": "Подпроект 4.2 [AD]",
-      "plant": ""
+      "enterprise": "Предприятие 4",
+      "project": "Подпроект 4.2"
     },
     {
       "column": "AE",
-      "enterprise": "Проект 4",
-      "project": "Подпроект 4.3 [AE]",
-      "plant": ""
+      "enterprise": "Предприятие 4",
+      "project": "Подпроект 4.3"
     },
     {
       "column": "AF",
-      "enterprise": "Проект 4",
-      "project": "Подпроект 4.4 [AF]",
-      "plant": ""
+      "enterprise": "Предприятие 4",
+      "project": "Подпроект 4.4"
     },
     {
       "column": "AG",
-      "enterprise": "Проект 4",
-      "project": "Подпроект 4.5 [AG]",
-      "plant": ""
+      "enterprise": "Предприятие 4",
+      "project": "Подпроект 4.5"
     },
     {
       "column": "AH",
-      "enterprise": "Проект 4",
-      "project": "Подпроект 4.6 [AH]",
-      "plant": ""
+      "enterprise": "Предприятие 4",
+      "project": "Подпроект 4.6"
     },
     {
       "column": "AI",
-      "enterprise": "Проект 4",
-      "project": "Подпроект 4.7 [AI]",
-      "plant": ""
+      "enterprise": "Предприятие 4",
+      "project": "Подпроект 4.7"
     },
     {
       "column": "AJ",
-      "enterprise": "Проект 4",
-      "project": "Подпроект 4.8 [AJ]",
-      "plant": ""
+      "enterprise": "Предприятие 4",
+      "project": "Подпроект 4.8"
     },
     {
       "column": "AK",
-      "enterprise": "Проект 4",
-      "project": "Подпроект 4.9 [AK]",
-      "plant": ""
+      "enterprise": "Предприятие 4",
+      "project": "Подпроект 4.9"
     },
     {
       "column": "AL",
-      "enterprise": "Проект 4",
-      "project": "Подпроект 4.10 [AL]",
-      "plant": ""
+      "enterprise": "Предприятие 4",
+      "project": "Подпроект 4.10"
     },
     {
       "column": "AM",
-      "enterprise": "Проект 5",
-      "project": "Подпроект 5.1 [AM]",
-      "plant": ""
+      "enterprise": "Предприятие 5",
+      "project": "Подпроект 5.1"
     },
     {
       "column": "AN",
-      "enterprise": "Проект 5",
-      "project": "Подпроект 5.2 [AN]",
-      "plant": ""
+      "enterprise": "Предприятие 5",
+      "project": "Подпроект 5.2"
     },
     {
       "column": "AO",
-      "enterprise": "Проект 5",
-      "project": "Подпроект 5.3 [AO]",
-      "plant": ""
+      "enterprise": "Предприятие 5",
+      "project": "Подпроект 5.3"
     },
     {
       "column": "AP",
-      "enterprise": "Проект 5",
-      "project": "Подпроект 5.4 [AP]",
-      "plant": ""
+      "enterprise": "Предприятие 5",
+      "project": "Подпроект 5.4"
     },
     {
       "column": "AQ",
-      "enterprise": "Проект 6",
-      "project": "Подпроект 6.1 [AQ]",
-      "plant": ""
+      "enterprise": "Предприятие 6",
+      "project": "Подпроект 6.1"
     },
     {
       "column": "AR",
-      "enterprise": "Проект 7",
-      "project": "Подпроект 7.1 [AR]",
-      "plant": ""
+      "enterprise": "Предприятие 7",
+      "project": "Подпроект 7.1"
     },
     {
       "column": "AS",
-      "enterprise": "Проект 8",
-      "project": "Подпроект 8.1 [AS]",
-      "plant": ""
+      "enterprise": "Предприятие 8",
+      "project": "Подпроект 8.1"
     },
     {
       "column": "AT",
-      "enterprise": "Проект 9",
-      "project": "Подпроект 9.1 [AT]",
-      "plant": ""
+      "enterprise": "Предприятие 9",
+      "project": "Подпроект 9.1"
     },
     {
       "column": "AU",
-      "enterprise": "Проект 10",
-      "project": "Проект 10.1 [AU]",
-      "plant": ""
+      "enterprise": "Предприятие 10",
+      "project": "Проект 10.1"
     },
     {
       "column": "AV",
-      "enterprise": "Проект 11",
-      "project": "Подпроект 11.1 [AV]",
-      "plant": ""
+      "enterprise": "Предприятие 11",
+      "project": "Подпроект 11.1"
     },
     {
       "column": "AW",
-      "enterprise": "Проект 11",
-      "project": "Подпроект 11.2 [AW]",
-      "plant": ""
+      "enterprise": "Предприятие 11",
+      "project": "Подпроект 11.2"
     },
     {
       "column": "AX",
-      "enterprise": "Проект 11",
-      "project": "Подпроект 11.3 [AX]",
-      "plant": ""
+      "enterprise": "Предприятие 11",
+      "project": "Подпроект 11.3"
     },
     {
       "column": "AY",
-      "enterprise": "Проект 11",
-      "project": "Подпроект 11.4 [AY]",
-      "plant": ""
+      "enterprise": "Предприятие 11",
+      "project": "Подпроект 11.4"
     },
     {
       "column": "AZ",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [AZ]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BA",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BA]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BB",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BB]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BC",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BC]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BD",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BD]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BE",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BE]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BF",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BF]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BG",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BG]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BH",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BH]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BI",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BI]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BJ",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BJ]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BK",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BK]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BL",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BL]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BM",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BM]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BN",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BN]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BO",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BO]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BP",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BP]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BQ",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BQ]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BR",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BR]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BS",
       "enterprise": "Прочие проекты",
-      "project": "Прочие [BS]",
-      "plant": ""
+      "project": "Прочие"
     },
     {
       "column": "BT",
       "enterprise": "Прочие",
-      "project": "Прочие [BT]",
-      "plant": ""
+      "project": "Прочие"
     }
   ],
   "hiddenFields": [
@@ -380,7 +328,6 @@
     "contacts",
     "geo",
     "reviews",
-    "factory",
     "object"
   ],
   "filterFields": [
