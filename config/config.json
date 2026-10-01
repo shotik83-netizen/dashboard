@@ -374,13 +374,13 @@
     "revenue",
     "totalContracts",
     "contracts",
+    "enterprise",
     "projects",
     "staff",
     "contacts",
     "geo",
     "reviews",
     "factory",
-    "enterprise",
     "object"
   ],
   "filterFields": [
@@ -391,11 +391,9 @@
     "revenue",
     "totalContracts",
     "contracts",
-    "projects",
     "staff",
     "contacts",
     "geo",
-    "factory",
     "enterprise",
     "object"
   ],
@@ -412,5 +410,9 @@
     "contacts",
     "geo"
   ],
-  "splitProjects": false
+  "splitProjects": false,
+  "aiSearch": {
+    "endpoint": "https://open.bigmodel.cn/api/paas/v4/chat/completions",
+    "model": "glm-4-flash"
+  }
 }
